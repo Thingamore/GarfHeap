@@ -1,4 +1,4 @@
 # GarfHeap
-AltEnd's first attempt at contributing something meaningles!
+AltEnd's first attempt at contributing something meaningless!
 
-Cognac's for Hax
+Cognacs for Hax
